@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@xizher/cesium": "^1.2.5",
+    "@xizher/cesium": "^1.2.6",
     "@xizher/js-ext": "^1.0.1",
     "@xizher/js-utils": "^1.1.1",
     "cesium": "^1.80.0",
@@ -25,6 +25,7 @@
     "eslint": "^7.24.0",
     "postcss": "^8.2.10",
     "typescript": "^4.1.2",
-    "vite": "^2.1.5"
+    "vite": "^2.1.5",
+    "vite-plugin-compression": "^0.2.4"
   }
 }
