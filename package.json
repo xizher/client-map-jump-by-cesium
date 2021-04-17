@@ -1,15 +1,17 @@
 {
   "name": "client-map-jump-by-cesium",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "@xizher/cesium": "^1.2.6",
     "@xizher/js-ext": "^1.0.1",
     "@xizher/js-utils": "^1.1.1",
+    "@xizher/observer": "^1.1.1",
     "cesium": "^1.80.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
